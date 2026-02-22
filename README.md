@@ -1,2 +1,2 @@
-# Introducci-n-F-rmaco-Nutriente
+# Introduccion-Farmaco-Nutriente
 Mapa interactivo de Interacción Fármaco Nutriente 
